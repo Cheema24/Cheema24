@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cheema24
-- 👀 I’m interested in forensics,I.R,bussiness,sustainability.
-- 💞️ I’m looking to collaborate on ... crimefighting, technology, sustainability
-- 📫 reach me on instagram at cheema_uzbek , for plants and sustianabilty projects dm at agridimension
+- 👀 I’m interested in Innovation,Bussines,Security.
+- 💞️ I’m looking to collaborate on ... technology, sustainability
+- 📫 reach me on instagram at cheema_uzbek, or LinkedIn at Uzbek Cheema
 
 <!---
 Cheema24/Cheema24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
