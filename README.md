@@ -1,4 +1,10 @@
-- 
-Cheema24/Cheema24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, My name is Uzbek
+Computer Science Student
+
+## 🛠️ Languages & Tools
+Python, Java, HTML, CSS, PHP
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheema24&show_icons=true&theme=radical)
+
+
