@@ -5,10 +5,8 @@ Computer Science Student
 Python, Java, HTML, CSS, PHP
 
 ## 📈 GitHub Stats
-<p float="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Cheema24&theme=github&bg_color=ffffff&color=4c1&line=4c1&point=4c1&hide_border=true&area=true&from=2024-01-01&to=2024-12-31" width="400" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=Cheema24&theme=github&bg_color=ffffff&color=4c1&line=4c1&point=4c1&hide_border=true&area=true&from=2025-01-01&to=2025-12-31" width="400" />
-</p>
+![2025 Activity](https://activity-graph.herokuapp.com/graph?username=Cheema24&theme=github&bg_color=ffffff&color=4c1&line=4c1&point=4c1&hide_border=true&area=true&from=2025-01-01&to=2025-12-31)
+
 
 
 
