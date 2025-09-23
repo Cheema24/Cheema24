@@ -5,7 +5,6 @@ Computer Science Student
 Python, Java, HTML, CSS, PHP
 
 ## 📈 GitHub Stats
-## GitHub Stats
 
 ![Cheema24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheema24&show_icons=true&count_private=true&theme=radical&include_all_commits=true&commits_year=2025)
 
