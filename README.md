@@ -5,7 +5,11 @@ Computer Science Student
 Python, Java, HTML, CSS, PHP
 
 ## 📈 GitHub Stats
-![2025 Activity](https://activity-graph.herokuapp.com/graph?username=Cheema24&theme=github&bg_color=ffffff&color=4c1&line=4c1&point=4c1&hide_border=true&area=true&from=2025-01-01&to=2025-12-31)
+## GitHub Stats
+
+![Cheema24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheema24&show_icons=true&count_private=true&theme=radical&include_all_commits=true&commits_year=2025)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheema24&layout=compact&langs_count=10&theme=radical)
 
 
 
