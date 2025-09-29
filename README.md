@@ -2,7 +2,7 @@
 Computer Science Student
 
 ## 🛠️ Languages & Tools
-Python, Java, HTML, CSS, PHP
+Python, Javascript, HTML, CSS, PHP
 
 ## 📈 GitHub Stats
 
