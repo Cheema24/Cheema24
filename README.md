@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Uzbek Imtiaz Cheema!
 
-I'm a student passionate about software development, currently working on the **Belfry project** a detective/investigation tool. 
+I'm a CS student, currently working on the "Belfry project" a detective/investigation tool. 
 ---
 
 ## 📈 GitHub Stats
