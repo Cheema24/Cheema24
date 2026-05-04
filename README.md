@@ -10,4 +10,4 @@ I'm a CS student, currently working on the "Belfry project" a detective/investig
 ![GitHub Streak](https://streak-stats.demolab.com?user=Cheema24)
 
 ## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheema24E&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheema24&layout=compact)
