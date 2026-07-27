@@ -16,6 +16,15 @@ I use my GitHub to document projects where I apply core computer science concept
 ![Stars](https://img.shields.io/github/stars/Cheema24?affiliations=OWNER%2CCOLLABORATOR&style=flat)
 ![Profile Views](https://komarev.com/ghpvc/?username=Cheema24&style=flat)
 
+<p>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cheema24&theme=transparent" alt="Cheema24's GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cheema24&theme=transparent" alt="Cheema24's repositories by language" />
+</p>
+
+![GitHub profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cheema24&theme=transparent)
+
+![GitHub contribution streak](https://streak-stats.demolab.com?user=Cheema24&theme=transparent&hide_border=true)
+
 ---
 
 ## 🚀 Current Focus
